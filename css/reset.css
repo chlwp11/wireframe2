@@ -10,3 +10,4 @@ ul,li {list-style:none;}
 .clearfix::after{content:'';display:block;clear:both;}
 a{text-decoration: none; color:#444;}
 header,main,section,footer{display:block;}
+.hide{display:none;}
