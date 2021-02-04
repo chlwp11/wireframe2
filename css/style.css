@@ -37,7 +37,7 @@
 #wrap #footer  {z-index:1; position:relative;width:100%;height:100px; background:rgba(200,200,0, .3);}
 #wrap #footer .wrap {width:1200px;height:100px;margin:0 auto;}
 #wrap #footer .wrap .content{width:100%;height:100%;}
-#wrap #footer .wrap .content .left-box {float:left; width: 1000px;height:100px; line-height:100px; background:#ece}
-#wrap #footer .wrap .content .box {float:left;width:200px; height:100px;}
-#wrap #footer .wrap .content .box .top-box {width:200px;height:50px;line-height:50px;background:#0f0;}
-#wrap #footer .wrap .content .box .bottom-box {width:200px;height:50px;line-height:50px;background:#f60;}
+#wrap #footer .wrap .content .left-box {float:right; width: 200px;height:100px; line-height:100px; background:#ece}
+#wrap #footer .wrap .content .box {float:right;width:1000px; height:100px;}
+#wrap #footer .wrap .content .box .top-box {width:1000px;height:50px;line-height:50px;background:#0f0;}
+#wrap #footer .wrap .content .box .bottom-box {width:1000px;height:50px;line-height:50px;background:#f60;}
